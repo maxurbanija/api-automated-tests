@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0134de02-7d0d-416d-b99a-8d83dac57d1e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/client/PetClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/client/UserClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/config/APIConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/request/user/LoginRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/request/user/UserRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/response/pet/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/response/pet/FindByStatusResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/response/pet/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/response/pet/Tag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/handlers/PetHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/petStoreTests/PetStoreExampleTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="0134de02-7d0d-416d-b99a-8d83dac57d1e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -196,7 +177,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
