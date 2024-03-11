@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0134de02-7d0d-416d-b99a-8d83dac57d1e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/client/PetClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/client/UserClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/config/APIConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/request/user/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/request/user/UserRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/response/pet/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/response/pet/FindByStatusResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/response/pet/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/response/pet/Tag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/handlers/PetHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/petStoreTests/PetStoreExampleTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/io/rest-assured/rest-assured/5.4.0/rest-assured-5.4.0.jar!/io/restassured/specification/RequestSpecification.class" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2dTCQHU6Ia76nSmiSgpaSGAGJd6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.PetStoreExampleTest.executor": "Run",
+    "JUnit.PetStoreExampleTest.getSoldPetsTest.executor": "Run",
+    "JUnit.PetStoreExampleTest.userCreationAndRetrieveTest.executor": "Run",
+    "JUnit.UserTest.getSoldPetsTest.executor": "Debug",
+    "JUnit.UserTest.testUserCreation.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "F:/git-urbanijamax/api-automated-tests/src/main/java",
+    "onboarding.tips.debug.path": "F:/git-urbanijamax/api-automated-tests/src/main/java/org/maxurbanija/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\git-urbanijamax\api-automated-tests\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="models.request.response" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PetStoreExampleTest">
+    <configuration name="PetStoreExampleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="api-automated-tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="petStoreTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="petStoreTests" />
+      <option name="MAIN_CLASS_NAME" value="petStoreTests.PetStoreExampleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PetStoreExampleTest.getSoldPetsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="api-automated-tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="petStoreTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="services" />
+      <option name="MAIN_CLASS_NAME" value="petStoreTests.PetStoreExampleTest" />
+      <option name="METHOD_NAME" value="getSoldPetsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PetStoreExampleTest.userCreationAndRetrieveTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="api-automated-tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="petStoreTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="petStoreTests" />
+      <option name="MAIN_CLASS_NAME" value="petStoreTests.PetStoreExampleTest" />
+      <option name="METHOD_NAME" value="userCreationAndRetrieveTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest.getSoldPetsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="api-automated-tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="petStoreTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="services" />
+      <option name="MAIN_CLASS_NAME" value="services.UserTest" />
+      <option name="METHOD_NAME" value="getSoldPetsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest.testUserCreation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="api-automated-tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="petStoreTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="services" />
+      <option name="MAIN_CLASS_NAME" value="services.UserTest" />
+      <option name="METHOD_NAME" value="testUserCreation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PetStoreExampleTest" />
+        <item itemvalue="JUnit.PetStoreExampleTest.getSoldPetsTest" />
+        <item itemvalue="JUnit.PetStoreExampleTest.userCreationAndRetrieveTest" />
+        <item itemvalue="JUnit.UserTest.getSoldPetsTest" />
+        <item itemvalue="JUnit.UserTest.testUserCreation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-4caba194b151-107bc6b7" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0134de02-7d0d-416d-b99a-8d83dac57d1e" name="Changes" comment="" />
+      <created>1710022664659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710022664659</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/maxurbanija/Main.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/petStoreTests/PetStoreExampleTest.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/petStoreTests/PetStoreExampleTest.java</url>
+          <line>105</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/petStoreTests/PetStoreExampleTest.java</url>
+          <line>93</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/petStoreTests/PetStoreExampleTest.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
